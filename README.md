@@ -1,6 +1,6 @@
 # My-notes
-My Name is ## Mohammad Shawabkeh , i am 24 years old.
-i have a bachelor in Civil engineer.
+My Name is *Mohammad Shawabkeh* , i am *24 years old*.
+i have a bachelor in *Civil engineer*.
 
 as from the leacture i learnt alot of things:
 1. Main reason to use Ubentu 
